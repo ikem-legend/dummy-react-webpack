@@ -2,6 +2,10 @@ node_modules
 dist
 stats.json
 .DS_Store
-package-lock.json
+
 # jetbrains
 .idea
+
+# cypress
+test/cypress/screenshots
+test/cypress/videos

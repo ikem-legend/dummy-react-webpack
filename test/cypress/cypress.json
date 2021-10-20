@@ -1,0 +1,16 @@
+{
+  "baseUrl": "http://localhost:3000/#/",
+  "viewportWidth": 1500,
+  "viewportHeight": 1000,
+  "video": true,
+  "integrationFolder": "./features",
+  "fixturesFolder": "./fixtures",
+  "pluginsFile": "./plugins/index.js",
+  "screenshotsFolder": "./screenshots",
+  "supportFile": "./support/index.js",
+  "videosFolder": "./videos",
+  "trashAssetsBeforeRuns": true,
+  "projectId": "528xi2",
+  "ignoreTestFiles": "*.js",
+  "modifyObstructiveCode": false
+}
