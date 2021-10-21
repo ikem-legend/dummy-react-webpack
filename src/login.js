@@ -88,9 +88,9 @@ const Login = () => {
                 className='block appearance-none w-full bg-gray-200 border border-gray-200 text-gray-700 py-3 px-4 pr-8 rounded leading-tight focus:outline-none focus:bg-white focus:border-gray-500'
                 id='grid-state'
               >
-                <option>New Mexico</option>
-                <option>Missouri</option>
-                <option>Texas</option>
+                <option value='New Mexico'>New Mexico</option>
+                <option value='Missouri'>Missouri</option>
+                <option value='Texas'>Texas</option>
               </select>
               <div className='pointer-events-none absolute inset-y-0 right-0 flex items-center px-2 text-gray-700'>
                 <svg
